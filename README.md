@@ -8,4 +8,4 @@
 
 <a href="https://app.daily.dev/Maverick"><img src="https://api.daily.dev/devcards/ba496092fb5d46479de0c0b64a8180df.png?r=gsu" width="400" alt="Alexandre Dupont's Dev Card"/></a>
 
-<a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/master/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
+<a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
