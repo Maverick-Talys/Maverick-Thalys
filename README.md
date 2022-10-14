@@ -10,5 +10,4 @@
 
 <a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
 
-<img src="[https://nextjs.org/conf/tickets/oct22/MrMaverick-Dev](https://nextjs.org/conf/tickets/oct22/MrMaverick-Dev)" width="400" alt="Maverick's Dev Card"/>
-
+<a href="https://www.noelshack.com/2022-41-5-1665737906-conf.png"><img src="https://image.noelshack.com/minis/2022/41/5/1665737906-conf.png" border="0" alt="1665737906-conf.png - envoi d'image avec NoelShack" title="1665737906-conf.png"/></a>
