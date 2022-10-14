@@ -10,5 +10,5 @@
 
 <a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
 
-<a href="https://nextjs.org/conf/tickets/oct22/MrMaverick-Dev"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
+<a href="https://nextjs.org/conf/tickets/oct22/MrMaverick-Dev"><img src="https://nextjs.org/conf/tickets/oct22/MrMaverick-Dev" width="400" alt="Maverick's Dev Card"/></a>
 
