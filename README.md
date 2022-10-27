@@ -8,15 +8,6 @@
 
 <figure><embed src="https://wakatime.com/share/@Maverick_Tech/96440587-58e2-4a67-b78a-6e022b343045.svg"></embed></figure>
 
-```text
-
-JavaScript               32 repos            ████████████░░░░░░░░░░░░░   48.48% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
-
-```
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaverick-dev&layout=compact&theme=tokyonight)](https://github.com/MrMaverick-Dev)
