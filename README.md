@@ -5,9 +5,6 @@
 [![Maverick's HitHub Stats](https://github-readme-stats.vercel.app/api?username=mrmaverick-dev&count_private=true&theme=radical&&hide=prs,issues,contribs&show_icons=true&include_all_commits)](https://github.com/MrMaverick-Dev)
 
 <!--START_SECTION:waka-->
-
-<figure><embed src="https://wakatime.com/share/@Maverick_Tech/96440587-58e2-4a67-b78a-6e022b343045.svg"></embed></figure>
-
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaverick-dev&layout=compact&theme=tokyonight)](https://github.com/MrMaverick-Dev)
