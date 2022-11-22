@@ -10,3 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaverick-dev&layout=compact&theme=tokyonight)](https://github.com/MrMaverick-Dev)
 
 <a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
+
+WIP
