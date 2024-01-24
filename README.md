@@ -9,7 +9,7 @@
 
 <a href="https://app.daily.dev/Maverick"><img src="https://github.com/MrMaverick-Dev/MrMaverick-Dev/blob/main/devcard.svg" width="400" alt="Maverick's Dev Card"/></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-talys-ma&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maverick-talys&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
